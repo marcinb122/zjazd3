@@ -6,4 +6,5 @@ p  {
 
 p:first-child {
     border: 5px black solid;
+    font-size: 100px;
 }
